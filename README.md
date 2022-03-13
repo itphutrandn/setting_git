@@ -12,8 +12,18 @@
 - git pull --brase origin master 
 - git difftool
 - git mergetool 
+## Setting variable 
+- C:\Program Files (x86)\GitExtensions\
+- C:\Program Files\Perforce
+- C:\Program Files\Perforce\
+- C:\Program Files\Notepad++
 
 # Link download tool
+#### Git extension 🤝
 - https://github.com/gitextensions/gitextensions/releases/tag/v3.5.4
+#### Git bash 🤝
 - https://git-scm.com/downloads
+#### Mergep4 🤝
 - https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge
+#### Notepad++ 🤝
+- https://notepad-plus-plus.org/downloads/
