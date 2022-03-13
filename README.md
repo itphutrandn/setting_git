@@ -19,11 +19,11 @@
 - C:\Program Files\Notepad++
 
 # Link download tool
-#### Git extension 🤝
+#### 🤝 Git extension 
 - https://github.com/gitextensions/gitextensions/releases/tag/v3.5.4
-#### Git bash 🤝
+#### 🤝 Git bash 
 - https://git-scm.com/downloads
-#### Mergep4 🤝
+#### 🤝 Mergep4 
 - https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge
-#### Notepad++ 🤝
+#### 🤝 Notepad++ 
 - https://notepad-plus-plus.org/downloads/
