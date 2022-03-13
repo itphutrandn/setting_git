@@ -27,3 +27,5 @@
 - https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge
 #### 🤝 Notepad++ 
 - https://notepad-plus-plus.org/downloads/
+
+### Happy Setting!
